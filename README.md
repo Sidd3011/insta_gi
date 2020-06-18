@@ -16,9 +16,9 @@
     }
 </script>
 
- <p style="font-family:verdana">Employee ID <input type="text" id="fName" onkeyup="generateFullName()" /></P><br/>
-  <p style="font-family:verdana">Sol ID <input type="text" id="lName" onkeyup="generateFullName()" /></P><br/>
-  <p style="font-family:verdana">Channel <input type="text" id="mName" onkeyup="generateFullName()" /></P><br/>
+ <p style="font-family:verdana">Enter Employee ID <input type="text" id="fName" onkeyup="generateFullName()" /></P><br/>
+  <p style="font-family:verdana">Enter Sol ID <input type="text" id="lName" onkeyup="generateFullName()" /></P><br/>
+  <p style="font-family:verdana">Enter Channel <input type="text" id="mName" onkeyup="generateFullName()" /></P><br/>
  <br/>
   <p style="font-family:verdana;color:red;font-size:150%">COPY BELOW LINK & SEND TO CUSTOMER</P><br/>
 
