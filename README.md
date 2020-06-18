@@ -10,9 +10,9 @@
 <script type="text/javascript">
     function generateFullName()
     {
-        document.getElementById('fullName').innerText = 'https://www.icicibank.com/Personal-Banking/insurance/motor-insurance.page?' +
-            document.getElementById('fName').value + '&' + 
-            document.getElementById('lName').value + '&' + document.getElementById('mName').value ;
+        document.getElementById('fullName').innerText = 'https://www.icicibank.com/Personal-Banking/insurance/motor-insurance.page?empref=' +
+            document.getElementById('fName').value + '&solid=' + 
+            document.getElementById('lName').value + '&channelid=' + document.getElementById('mName').value ;
     }
 </script>
 
